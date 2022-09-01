@@ -1,0 +1,10 @@
+.btn {
+    min-height: 3.25em;
+    min-width: 10.25em;
+    background-color: #ccc;
+
+    border: 1px solid #b6b6b6af;
+    border-radius: 1em;
+    box-shadow: -1px 1px 6px #00000058;
+
+}

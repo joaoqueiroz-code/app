@@ -1,0 +1,19 @@
+.container-principal {
+    margin: 0 auto;
+    width: 940px;
+    margin-top: 1em;
+}
+
+.container {
+
+    border: 1px solid #b6b6b6af;
+    border-radius: 1em;
+    box-shadow: -1px 1px 6px #00000058;
+
+    height: 30em;
+    width: 100%;
+}
+
+.container-principal .container {
+    margin-bottom: 1em;
+}
